@@ -1,0 +1,79 @@
+.heading h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.heading-2 h2 {
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.heading-3 h2  {
+	margin-top: 0;
+}
+
+.project-wrapper, .ha-wrapper, .ts-wrapper, .lang-wrapper, .visitor-wrapper {
+  padding-top: 5%;
+  padding-bottom: 70px;
+  padding-left: 5%;
+  padding-right: 5%;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.proj, .hna, .tsr, .language {
+  width: 100%;
+}
+
+.proj-name h3, .hna-name h3, .tsr-name h3, .lang-name h3 {
+  width: 100%;
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.proj-name h4, .hna-name h4, .tsr-name h4 {
+  width: 100%;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: left;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.proj-contents, .hna-contents, .tsr-contents {
+  width: 100%;
+  display: inline-block;
+  margin-top: 3px;
+  font-size: 20px;
+  color: black;
+  text-align: justify;
+}
+
+.ha-wrapper {
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+
+.ts-wrapper {
+  padding-top: 0;
+  padding-bottom: 50px;
+}
+
+.lang-wrapper {
+  padding-top: 0;
+  padding-bottom: 30px;
+}
+
+.visitor-wrapper {
+  padding-top: 0;
+  padding-bottom: 10px;
+}
+
+.visitor-wrapper img {
+	width: 500px;
+}

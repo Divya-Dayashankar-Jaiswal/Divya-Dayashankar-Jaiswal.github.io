@@ -1,0 +1,45 @@
+@media all and (max-width: 500px) {
+	.visitor-wrapper img {
+		width: 80%;
+	}
+	
+	.project-wrapper, .ha-wrapper, .ts-wrapper, .lang-wrapper, .visitor-wrapper {
+	  padding-top: 5%;
+	  padding-bottom: 40px;
+	  padding-left: 5%;
+	  padding-right: 5%;
+	  background-color: #f7f7f7;
+	  text-align: center;
+	}	
+	
+	.proj-name h3, .hna-name h3, .tsr-name h3, .lang-name h3 {
+	  width: 100%;
+	  color: black;
+	  font-weight: bolder;
+	  font-size: 20px;
+	  text-align: center;
+	  margin-bottom: 0;
+	  margin-top: 0;
+	}
+
+	.proj-name h4, .hna-name h4, .tsr-name h4 {
+	  width: 100%;
+	  color: black;
+	  font-weight: bold;
+	  font-size: 16px;
+	  text-align: left;
+	  margin-bottom: 0;
+	  margin-top: 0;
+	}
+
+	.proj-contents, .hna-contents, .tsr-contents {
+	  width: 100%;
+	  display: inline-block;
+	  margin-top: 3px;
+	  font-size: 14px;
+	  color: black;
+	  text-align: justify;
+	}
+	
+
+}
